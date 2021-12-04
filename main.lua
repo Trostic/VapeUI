@@ -1636,3 +1636,4 @@ function lib:Window(text, preset, closebind)
     end
     return tabhold
 end
+return lib
